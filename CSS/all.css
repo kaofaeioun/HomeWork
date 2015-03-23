@@ -123,12 +123,14 @@ table {
 	font-family: "微軟正黑體";
 	font-size: 25px;
 	margin: 0 auto;
+	margin-left: 20px;
 }
 .list p{
 	font-family: "微軟正黑體";
 	margin-left: 15px;
 	margin-top: 10px;
 	margin-right: 10px;
+	margin-bottom: 10px;
 }
 .list_content{
 	margin-top: 20px;
@@ -137,7 +139,4 @@ table {
 	width: 300px;
 	float: left;
 	margin-right: 30px;
-}
-.b_right h1{
-	margin-left: 55px;
 }
